@@ -4,7 +4,7 @@ let amplitude;
 let fft
 
 function preload() {
-sound = loadSound("src/sounds/Sky High.mp3")
+sound = loadSound("src/sounds/NCS_Skyhigh.mp3")
 }
 
 function setup() {
