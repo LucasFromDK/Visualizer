@@ -1,1 +1,1 @@
-This is a simple Audio Visualizer.
+This is a Simple Audio Visualizer.
