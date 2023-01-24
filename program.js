@@ -70,6 +70,7 @@ function playNext() {
   } else {
     currentSound++
   }
+  playButton.html("Pause")
   sound[currentSound].play()
   console.log(sound[currentSound])
 }
